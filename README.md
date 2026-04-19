@@ -46,6 +46,9 @@ PRs welcome. Open an issue first for anything significant. I would love to have 
 ![Nexus UAV 2](images/Screenshot%202026-04-18%20031229.png)
 ![Nexus UAV 3](images/Screenshot%202026-04-17%20035021.png)
 
+# Electrical System Architecture
+
+![Electrical System Architecture](images/Screenshot%202026-04-19%20114502.png)
 
 # BOM
 
