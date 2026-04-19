@@ -1,4 +1,4 @@
-![Alt Text](file:///C:/Users/Aiden/OneDrive/Pictures/Screenshots/Screenshot%202026-04-19%20060240.png")
+![Nexus UAV](images/Screenshot%202026-04-19%20060240.png)
 
 
 
@@ -42,11 +42,11 @@ PRs welcome. Open an issue first for anything significant. I would love to have 
 # Images Of Nexus
 
 
-![Alt Text](file:///C:/Users/Aiden/OneDrive/Pictures/Screenshots/Screenshot%202026-04-18%20031229.png)
-![Alt Text](file:///C:/Users/Aiden/OneDrive/Pictures/Screenshots/Screenshot%202026-04-18%20031229.png)
-![Alt Text](file:///C:/Users/Aiden/OneDrive/Pictures/Screenshots/Screenshot%202026-04-17%20035021.png)
+![Nexus UAV 1](images/Screenshot%202026-04-18%20031229.png)
+![Nexus UAV 2](images/Screenshot%202026-04-18%20031229.png)
+![Nexus UAV 3](images/Screenshot%202026-04-17%20035021.png)
 
 
 # BOM
 
-![Alt Text](file:///C:/Users/Aiden/OneDrive/Pictures/Screenshots/Screenshot%202026-04-19%20091853.png)
+![BOM](images/Screenshot%202026-04-19%20091853.png)
