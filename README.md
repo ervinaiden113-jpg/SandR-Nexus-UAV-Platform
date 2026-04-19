@@ -54,6 +54,9 @@ PRs welcome. Open an issue first for anything significant. I would love to have 
 
 ![BOM](images/Screenshot%202026-04-19%20091853.png)
 
+# Instructions
+see instruction manual in misc folder for print orientation print settings and assembly guide.
+
 # UPDATES
 
 I'll be adding config files and Ardupilot parameter files after my project gets approved and I get my flight controller in.
