@@ -1,3 +1,9 @@
+![Alt Text](file:///C:/Users/Aiden/OneDrive/Pictures/Screenshots/Screenshot%202026-04-19%20060240.png")
+
+
+
+
+
 # Search-And-Rescue-UAV-Platform
 
 SandR Nexus is a compact semi-autonomous electrical vertical takeoff and landing (eVTOL) Unmanned Aerial Vehicle (UAV) purpose built for search and rescue (SAR) missions.
@@ -31,3 +37,16 @@ Most SAR drones are either too expensive for small teams to field, too large to 
 
 # Contributing
 PRs welcome. Open an issue first for anything significant. I would love to have meaningful contributions to this project — whether that's improvements to the CV pipeline, flight controller configs, or airframe design.
+
+
+# Images Of Nexus
+
+
+![Alt Text](file:///C:/Users/Aiden/OneDrive/Pictures/Screenshots/Screenshot%202026-04-18%20031229.png)
+![Alt Text](file:///C:/Users/Aiden/OneDrive/Pictures/Screenshots/Screenshot%202026-04-18%20031229.png)
+![Alt Text](file:///C:/Users/Aiden/OneDrive/Pictures/Screenshots/Screenshot%202026-04-17%20035021.png)
+
+
+# BOM
+
+![Alt Text](file:///C:/Users/Aiden/OneDrive/Pictures/Screenshots/Screenshot%202026-04-19%20091853.png)
